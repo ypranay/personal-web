@@ -2,7 +2,7 @@ main {
   align-content: center;
   box-sizing: border-box;
   display: grid;
-  font-family: 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
+  font-family: 'Graphik', 'SF Pro Text', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica',
     'Arial', sans-serif;
   hyphens: auto;
   line-height: 1.65;
@@ -12,6 +12,7 @@ main {
   padding: 72px 0;
   text-align: center;
 }
+
 h1 {
   font-size: 45px;
 }
