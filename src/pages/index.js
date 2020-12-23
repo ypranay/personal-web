@@ -20,7 +20,7 @@ function Index() {
       <div class = "bio-container">
       <p class = "name">PRANAY YADAV</p>
       <p>
-        Currently an early-stage investor at 
+        Currently an early-stage investor at {' '}
         <a
           href="https://www.accel.com"
           target="_blank"
@@ -28,7 +28,7 @@ function Index() {
         >
         Accel
         </a>{' '}
-        . I am passionate about enterprise and open-source software, developer tools and API-first businesses.
+        I am passionate about enterprise and open-source software, developer tools and API-first businesses.
       </p>
       <br />
       <h2>The date according to Node.js (TypeScript) is:</h2>
