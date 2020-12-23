@@ -18,15 +18,15 @@ function Index() {
         <title>Pranay Yadav</title>
       </Helmet>
       <div class = "bio-container">
-      <h1>Pranay Yadav</h1>
+      <p>PRANAY YADAV</p>
       <p>
         Currently an early-stage SaaS investor at
         <a
-          href="https://github.com/vercel/vercel/tree/master/examples/gatsby"
+          href="https://www.accel.com"
           target="_blank"
           rel="noreferrer noopener"
         >
-        Accel::after
+        "Accel"::after
         </a>{' '}
         I am passionate about enterprise and open-source software, developer tools and API-first businesses.
       </p>
