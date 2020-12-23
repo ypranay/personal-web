@@ -20,7 +20,7 @@ function Index() {
       <div class = "bio-container">
       <p class = "name">PRANAY YADAV</p>
       <p>
-        Currently an early-stage SaaS investor at
+        Currently an early-stage investor at 
         <a
           href="https://www.accel.com"
           target="_blank"
