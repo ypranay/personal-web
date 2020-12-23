@@ -28,12 +28,8 @@ function Index() {
         >
         Accel
         </a>{' '}
-        I am passionate about enterprise and open-source software, developer tools and API-first businesses.
+        . I am passionate about enterprise and open-source software, developer tools and API-first businesses.
       </p>
-      <br />
-      <h2>The date according to Node.js (TypeScript) is:</h2>
-      <p>{date ? date : 'Loading date...'}</p>
-      </div>
     </main>
   );
 }

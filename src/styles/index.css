@@ -22,6 +22,8 @@ main {
 }
 .name {
   font-size: 32px;
+  margin: 0 0 32px;
+  padding: 0px 8px;
 }
 .bio-container a {
   color: rgba(0,0,0,.35);
