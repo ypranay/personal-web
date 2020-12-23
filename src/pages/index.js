@@ -26,7 +26,7 @@ function Index() {
           target="_blank"
           rel="noreferrer noopener"
         >
-        Accel ::after
+        Accel
         </a>{' '}
         I am passionate about enterprise and open-source software, developer tools and API-first businesses.
       </p>
