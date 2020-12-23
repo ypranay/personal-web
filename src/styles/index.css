@@ -19,6 +19,7 @@ main {
   max-width: 50%;
   float: left;
   color: #033435;
+  text-rendering: optimizeLegibility;
 }
 .name {
   font-size: 32px;
@@ -33,9 +34,6 @@ a[target=_blank]:after {
 }
 h1 {
   font-size: 24px;
-}
-h2 {
-  margin-top: 1.5em;
 }
 p {
   margin: 0 0 32px;
