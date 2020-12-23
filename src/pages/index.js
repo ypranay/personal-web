@@ -28,7 +28,7 @@ function Index() {
           >
           Accel
           </a>{' '}
-          . I am passionate about enterprise and open-source software, developer tools and API-first businesses.
+          . I am passionate about enterprise software, developer tools, OSS and API businesses.
         </p>
       </div>
     </main>
