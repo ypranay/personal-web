@@ -18,7 +18,7 @@ function Index() {
         <title>Pranay Yadav</title>
       </Helmet>
       <div class = "bio-container">
-      <p>PRANAY YADAV</p>
+      <p class = "name">PRANAY YADAV</p>
       <p>
         Currently an early-stage SaaS investor at
         <a
@@ -26,7 +26,7 @@ function Index() {
           target="_blank"
           rel="noreferrer noopener"
         >
-        "Accel"::after
+        Accel ::after
         </a>{' '}
         I am passionate about enterprise and open-source software, developer tools and API-first businesses.
       </p>
