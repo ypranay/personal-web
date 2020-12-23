@@ -18,18 +18,19 @@ function Index() {
         <title>Pranay Yadav</title>
       </Helmet>
       <div class = "bio-container">
-      <p class = "name">PRANAY YADAV</p>
-      <p>
-        Currently an early-stage investor at {' '}
-        <a
-          href="https://www.accel.com"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-        Accel
-        </a>{' '}
-        . I am passionate about enterprise and open-source software, developer tools and API-first businesses.
-      </p>
+        <p class = "name">PRANAY YADAV</p>
+        <p>
+          Currently an early-stage investor at {' '}
+          <a
+            href="https://www.accel.com"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+          Accel
+          </a>{' '}
+          . I am passionate about enterprise and open-source software, developer tools and API-first businesses.
+        </p>
+      </div>
     </main>
   );
 }
