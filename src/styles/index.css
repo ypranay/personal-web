@@ -1,6 +1,5 @@
 main {
   box-sizing: border-box;
-  display: block;
   font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, Helvetica, Arial, sans-serif;
   hyphens: auto;
   font-size: 32px;
@@ -12,13 +11,17 @@ main {
   text-align: left;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  grid-template-areas: "about speaking";
+  justify-content: center;
 }
 .bio-container {
+  grid-area: about;
   padding: 32px;
   line-height: 1.25;
   font-size: 32px;
-  max-width: 50%;
-  float: left;
   color: #033435;
   text-rendering: optimizeLegibility;
 }
@@ -41,7 +44,6 @@ p {
   display: block;
   position: relative;
   min-height: 1px;
-  float: left;
 }
 a {
   border-bottom: 1px solid white;
@@ -63,4 +65,14 @@ pre {
 code:before,
 code:after {
   content: '\`';
+}
+
+@media(max-width: 1024px) {
+  main {
+      grid-template-areas: 
+      "about"
+      "speaking";
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr 1fr;
+  }
 }
