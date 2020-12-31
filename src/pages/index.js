@@ -20,7 +20,7 @@ function Index() {
       <div class = "bio-container">
         <p class = "name">PRANAY YADAV</p>
         <p>
-          Currently an early-stage investor at {' '}
+          Currently an early-stage VC at {' '}
           <a
             href="https://www.accel.com"
             target="_blank"
@@ -28,8 +28,9 @@ function Index() {
           >
           Accel
           </a>{' '}
-          . I am passionate about enterprise software, developer tools, OSS and API businesses.
+          . I look at Enterprise Software, DevTools, OSS and API businesses.
         </p>
+        <p>Beyond the usual, I help portfolio companies with product and GTM.</p>
       </div>
     </main>
   );
