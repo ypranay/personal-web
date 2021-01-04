@@ -35,7 +35,7 @@ body {
 }
 
 .text a {
-  color:rgba(0,0,0,.35);
+  color:#525252;
   text-decoration: none;
   cursor: pointer;
   background: linear-gradient(to right, hsla(54, 100%, 62%, 0.9), hsla(54, 100%, 62%, 0.9));
