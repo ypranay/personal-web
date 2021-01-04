@@ -44,7 +44,7 @@ function Index() {
       I hold a Bachelor’s and Master's degree in Computer Science from <a href="http://www.iitkgp.ac.in/" target="_blank" rel="noreferrer noopener">IIT Kharagpur</a>. My specialization lies in NLP and computational psycholinguistics.</p>
 
     <p>
-      Prior to Accel, I've been a Public Health Consultant to the Government of India during my time at <a href="https://www.clintonhealthaccess.org/" target="_blank" rel="noreferrer noopener">Clinton Health Access Initiative</a>, a Quant building pricing models for credit derivatives during my time at <a href="https://www.nomuraholdings.com" target="_blank" rel="noreferrer noopener">Nomura</a> and a technical co-founder of a community-buying platform during college.
+      Prior to Accel, I've been a Public Health Consultant during my time at <a href="https://www.clintonhealthaccess.org/" target="_blank" rel="noreferrer noopener">Clinton Health Access Initiative</a>, a Quant building pricing models for credit derivatives during my time at <a href="https://www.nomuraholdings.com" target="_blank" rel="noreferrer noopener">Nomura</a> and a technical co-founder of a community-buying platform during college.
     </p>
 
     <p>
