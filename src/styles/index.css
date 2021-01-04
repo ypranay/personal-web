@@ -6,8 +6,8 @@
 
 body {
   background: #fff;
-  font-size: 3.75vw;
-  line-height: 4.25vw;
+  font-size: 7.5vh;
+  line-height: 8.5vh;
   font-weight: 400;
   letter-spacing: -0.1vw;
   font-family: Graphik, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -17,19 +17,19 @@ body {
 }
 
 .text {
-  padding: 2.2vw 10vw 0 3vw;
+  padding: 4vh 10vh 0 4.5vh;
 }
 
 .text h1 {
-  font-size: 2.5vw;
-  margin-bottom: 2vw;
+  font-size: 6.5vh;
+  margin-bottom: 4vh;
   font-weight: 600;
   line-height: inherit;
   letter-spacing: inherit;
 }
 
 .text p {
-  margin-bottom: 3.5vw;
+  margin-bottom: 5.5vh;
   opacity: 1;
 }
 
