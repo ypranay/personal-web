@@ -4,14 +4,6 @@
   box-sizing: border-box;
 }
 
-@media(max-width: 500px) {
-  .text p {
-    font-size: 5.5vw;
-    line-height: 6vw;
-    margin-bottom: 2.5vw;
-  }
-}
-
 body {
   background: #fff;
   font-size: 3.75vw;
@@ -65,4 +57,20 @@ body {
 .text a[target=_blank]:after {
   content: "\2197";
   margin-left: 4px;
+}
+
+@media(max-width: 500px) {
+  .text {
+    padding: 2.2vw 8vw 0 4.5vw;
+  }
+  .text h1 {
+    font-size: 7vw;
+    margin-top: 3vw;
+    margin-bottom: 5.5vw;
+  }
+  .text p {
+    font-size: 7.5vw;
+    line-height: 8.5vw;
+    margin-bottom: 4.5vw;
+  }
 }
